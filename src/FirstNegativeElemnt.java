@@ -9,7 +9,7 @@ public class FirstNegativeElemnt {
     public static void main(String args[]){
 
 
-        long []answers={-8, 2, 3, -6, 10};
+        long []answers={-8, -2, 3, -6, 10};
         long ans[]=printFirstNegativeInteger(answers,5,2);
         System.out.println(Arrays.toString(ans));
     }
@@ -27,6 +27,7 @@ public class FirstNegativeElemnt {
         for (i = 0; i < K; i++) {
             if (A[i] < 0) {
                 deque.add(i);
+               // System.out.println(deque);
             }
         }
 

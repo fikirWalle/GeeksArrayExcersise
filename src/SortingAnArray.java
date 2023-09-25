@@ -16,4 +16,12 @@ public static void main(String args[]){
         Arrays.sort(a);
         System.out.print(Arrays.toString(a));
     }
+
+    public static int kthSmallest(int[] arr, int l, int r, int k)
+    {
+        //Your code here
+        Arrays.sort(arr);
+        int smallest=arr[k-1];
+        return smallest;
+    }
 }
