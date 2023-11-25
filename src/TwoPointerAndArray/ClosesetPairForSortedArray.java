@@ -1,3 +1,5 @@
+package TwoPointerAndArray;
+
 import java.util.Arrays;
 
 public class ClosesetPairForSortedArray {

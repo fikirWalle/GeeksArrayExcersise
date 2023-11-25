@@ -1,3 +1,5 @@
+package TwoPointerAndArray;
+
 public class removeDuplicates {
 
 public static void main(String args[]){

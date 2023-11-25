@@ -1,3 +1,5 @@
+package TwoPointerAndArray;
+
 public class FourElemnts {
 
     public static boolean   find4Numbers(int A[], int n, int X)

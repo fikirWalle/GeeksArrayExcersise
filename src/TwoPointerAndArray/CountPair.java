@@ -1,3 +1,5 @@
+package TwoPointerAndArray;
+
 public class CountPair {
 
     public static void main(String args[]){

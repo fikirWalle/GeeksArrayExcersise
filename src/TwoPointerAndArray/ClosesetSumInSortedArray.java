@@ -1,3 +1,5 @@
+package TwoPointerAndArray;
+
 public class ClosesetSumInSortedArray {
 
     public static void main(String args[]){
